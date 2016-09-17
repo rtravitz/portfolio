@@ -1,4 +1,4 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Ryan Travitz - M1 Portfolio
 
 ## Areas of Emphasis
 
@@ -49,18 +49,11 @@ This project focused on using an iterative development process. Through this pro
 *Looping or Recursion:* 4: Application makes excellent use of loop/recursion techniques
 
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
 ## C: Group Work & Projects
+
+### Projects
+
+(Intro)
 
 
 #### CompleteMe
@@ -70,12 +63,14 @@ This project focused on using an iterative development process. Through this pro
 
 This project focused on making a simple textual autocomplete system. To finish this project, my partner and I implemented the trie data structure and used File I/O to populate it with a dictionary of roughly 250,000 words. When presented with a fragment of a word, the program would suggest all possible completions and weight suggestions by past usage.
 
-**Evaluation Comments**
+**Evaluation Comments:**
+
 * great test coverage
 * good use of recursion where necessary
 * separated responsibilities and use of private methods
 
-**Evaluation Scores**
+**Evaluation Scores:**
+
 *Functional Expectations:* 4: Application fulfills all base expectations and one extension
 
 *Test-Driven Development:* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
@@ -86,10 +81,8 @@ This project focused on making a simple textual autocomplete system. To finish t
 
 *Looping or Recursion:* 4: Application consistently makes use of the best-choice Enumerable methods
 
+(feedback to me)
 
-### Projects
-
-(Intro)
 
 #### (Project Name)
 

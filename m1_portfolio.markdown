@@ -30,13 +30,13 @@
 
 This project focused on using an iterative development process. Through this process, I learned about how to break programs into logical components, test those components in isolation and combination, and utilize classes. I also learned how to create a linked list data structure.
 
-Evaluation Comments:
+**Evaluation Comments:**
 
 * All iterations plus both extensions
 * Well tested, but check older tests, make sure tests actually test your intent.
 * Used both recursion and iterative approaches.
 
-Evaluation Scores:
+**Evaluation Scores:**
 
 *Functional Expectations:* 4: Application fulfills all base expectations and the one extension
 
@@ -48,16 +48,6 @@ Evaluation Scores:
 
 *Looping or Recursion:* 4: Application makes excellent use of loop/recursion techniques
 
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 #### (Project Name)
 
@@ -71,6 +61,31 @@ Evaluation Scores:
 (evaluation scores)
 
 ## C: Group Work & Projects
+
+
+#### CompleteMe
+
+* [GitHub URL](https://github.com/morganslimak/Complete_Me)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
+
+This project focused on making a simple textual autocomplete system. To finish this project, my partner and I implemented the trie data structure and used File I/O to populate it with a dictionary of roughly 250,000 words. When presented with a fragment of a word, the program would suggest all possible completions and weight suggestions by past usage.
+
+**Evaluation Comments**
+* great test coverage
+* good use of recursion where necessary
+* separated responsibilities and use of private methods
+
+**Evaluation Scores**
+*Functional Expectations:* 4: Application fulfills all base expectations and one extension
+
+*Test-Driven Development:* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+*Encapsulation / Breaking Logic into Components:* 4: Application is expertly divided into logical components each with a clear, single responsibility
+
+*Fundamental Ruby & Style:* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+*Looping or Recursion:* 4: Application consistently makes use of the best-choice Enumerable methods
+
 
 ### Projects
 

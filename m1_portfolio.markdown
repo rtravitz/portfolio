@@ -48,6 +48,39 @@ This project focused on using an iterative development process. Through this pro
 
 *Looping or Recursion:* 4: Application makes excellent use of loop/recursion techniques
 
+-----------------
+
+#### Event Reporter
+
+* [GitHub URL](https://github.com/rtravitz/event-reporter)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown)
+
+For this project, I created an interactive querying and reporting tool that could handle messy datasets. The program implemented a REPL that a user could query for information about attendees to an event. The user could then generate CSV and HTML reports from saved searches.
+
+**Evaluation Comments:**
+
+* 20 tests
+* Used Faraday
+* Overall, really good project, extensions complete.
+* Look for more ways to test both happy and sad paths.
+* Great instinct on how to handle testing messages printed to screen.
+
+**Evaluation Scores:**
+
+*Functional Expectations:* 4: Application fulfills all base expectations and two extensions, or a custom extension to be approved by an instructor.
+
+*REPL Interface:* 4: Application's REPL goes above and beyond expectations to improve the interface
+
+*Test-Driven Development:* 3: Application is well tested but does not balance isolation and integration tests
+
+*Breaking Logic into Components:* 3: Application effectively breaks logical components apart with clear intent and usage
+
+*Fundamental Ruby & Style:* 3: Application shows strong effort towards organization, content, and refactoring
+
+*Enumerables and Collections:* 3: Application demonstrates comfortable use of several Enumerable techniques
+
+*HTML and Style:* 4: Usses CSS and is aesthetically pleasing, using of images, colors and metadata.
+
 
 ## C: Group Work & Projects
 
@@ -61,7 +94,7 @@ This project focused on using an iterative development process. Through this pro
 * [GitHub URL](https://github.com/morganslimak/Complete_Me)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
-This project focused on making a simple textual autocomplete system. To finish this project, my partner and I implemented the trie data structure and used File I/O to populate it with a dictionary of roughly 250,000 words. When presented with a fragment of a word, the program would suggest all possible completions and weight suggestions by past usage.
+This project focused on making a simple textual autocomplete system. To finish this project, my partner and I implemented the trie data structure and used File I/O to populate it with a dictionary of roughly 250,000 words. When presented with a fragment of a word, the program would suggest all possible completions and weight suggestions by past usage. As an extension to the project, we also made a simple GUI with Shoes.
 
 **Evaluation Comments:**
 
@@ -79,9 +112,11 @@ This project focused on making a simple textual autocomplete system. To finish t
 
 *Fundamental Ruby & Style:* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-*Looping or Recursion:* 4: Application consistently makes use of the best-choice Enumerable methods
+*Enumerable & Collections:* 4: Application consistently makes use of the best-choice Enumerable methods
 
 (feedback to me)
+
+--------------
 
 
 #### (Project Name)

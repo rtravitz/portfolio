@@ -38,25 +38,15 @@ Evaluation Comments:
 
 Evaluation Scores:
 
-Functional Expectations
+*Functional Expectations:* 4: Application fulfills all base expectations and the one extension
 
-* 4: Application fulfills all base expectations and the one extension
+*Test-Driven Development:* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-Test-Driven Development
+*Encapsulation / Breaking Logic into Components:* 4: Application is expertly divided into logical components each with a clear, single responsibility
 
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+*Fundamental Ruby & Style:* 3:  Application shows strong effort towards organization, content, and refactoring
 
-Encapsulation / Breaking Logic into Components
-
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
-
-Fundamental Ruby & Style
-
-* 3:  Application shows strong effort towards organization, content, and refactoring
-
-Looping *or* Recursion
-
-* 4: Application makes excellent use of loop/recursion techniques
+*Looping or Recursion:* 4: Application makes excellent use of loop/recursion techniques
 
 #### (Project Name)
 

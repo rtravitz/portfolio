@@ -2,7 +2,10 @@
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+Academically, this module I sought to gain a solid understanding of Ruby and Object-Oriented principles to rely on in the future.
+
+I also set personal goals to immerse myself in every part of the Turing experience. It's important to me to commit to things all the way. In this context, that meant focusing on attending as many speakers and events as possible, jumping into a posse, and bonding with my cohort.
+
 
 ## Rubric Scores
 
@@ -21,7 +24,9 @@
 
 ## B: Individual Work & Projects
 
-(Intro)
+Over the course of the first six week at Turing, I have had the opportunity to work on two individual projects: Jungle Beat and Event Reporter. I received threes and fours across both projects. From the first project to the second project, I grew in my ability to separate parts of my logic and test them separately and together.
+
+-----------
 
 #### Jungle Beat
 
@@ -31,6 +36,8 @@
 This project focused on using an iterative development process. Through this process, I learned about how to break programs into logical components, test those components in isolation and combination, and utilize classes. I also learned how to create a linked list data structure.
 
 **Evaluation Comments:**
+
+Assessed by: Mike
 
 * All iterations plus both extensions
 * Well tested, but check older tests, make sure tests actually test your intent.
@@ -59,6 +66,8 @@ For this project, I created an interactive querying and reporting tool that coul
 
 **Evaluation Comments:**
 
+Assessed by: Mike
+
 * 20 tests
 * Used Faraday
 * Overall, really good project, extensions complete.
@@ -86,8 +95,7 @@ For this project, I created an interactive querying and reporting tool that coul
 
 ### Projects
 
-(Intro)
-
+Beyond just improving technical abilities, group projects at Turing are an excellent opportunity to grow in important communication and interpersonal skills.
 
 #### CompleteMe
 
@@ -97,6 +105,8 @@ For this project, I created an interactive querying and reporting tool that coul
 This project focused on making a simple textual autocomplete system. To finish this project, my partner and I implemented the trie data structure and used File I/O to populate it with a dictionary of roughly 250,000 words. When presented with a fragment of a word, the program would suggest all possible completions and weight suggestions by past usage. As an extension to the project, we also made a simple GUI with Shoes.
 
 **Evaluation Comments:**
+
+Assessed by: Mark
 
 * great test coverage
 * good use of recursion where necessary
@@ -159,7 +169,10 @@ This project focused on making a simple textual autocomplete system. To finish t
 
 ### Being a Community Member
 
-(feedback to me)
+
+Ryan has been a huge help to me during my time at Turing, he has always made himself available to answer any questions I or my teammates may have.  He has a calm and conversational way of explaining concepts that leaves me walking away with understanding what is going on rather than just with an answer. He also shows great dedication to all of his work at Turing and this serves as a continued inspiration.  It is very motivating to see his focus, the high standard of performance he holds himself to, and the quality of work he produces. Ryan is a great guy to be around and adds to all of our experience at Turing in numerous ways.
+
+*-Jon Kimble, 1608-BE Student*
 
 ### Playing a Part
 

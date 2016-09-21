@@ -19,7 +19,25 @@ I also set personal goals to immerse myself in every part of the Turing experien
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed by: Mike
+
+*Ruby Syntax & API |*
+**4**: Developer is able to write Ruby with a minimum of reference or debugging
+
+*Completion and Progress |*
+**4**: Developer fully completes baseline assignment and one of the Challenge options.
+
+*Testing |*
+**4**: Developer excels at taking small steps and using the tests for both design and verification
+
+*Workflow |*
+**3**: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+*Collaboration |*
+**4**: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+
+*Enumerable & Collections |*
+**3**: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 ## B: Individual Work & Projects
@@ -45,15 +63,20 @@ Assessed by: Mike
 
 **Evaluation Scores:**
 
-*Functional Expectations:* 4: Application fulfills all base expectations and the one extension
+*Functional Expectations |*
+**4**: Application fulfills all base expectations and the one extension
 
-*Test-Driven Development:* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+*Test-Driven Development |*
+**3**: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 
-*Encapsulation / Breaking Logic into Components:* 4: Application is expertly divided into logical components each with a clear, single responsibility
+*Encapsulation / Breaking Logic into Components |*
+**4**: Application is expertly divided into logical components each with a clear, single responsibility
 
-*Fundamental Ruby & Style:* 3:  Application shows strong effort towards organization, content, and refactoring
+*Fundamental Ruby & Style |*
+**3**:  Application shows strong effort towards organization, content, and refactoring
 
-*Looping or Recursion:* 4: Application makes excellent use of loop/recursion techniques
+*Looping or Recursion |*
+**4**: Application makes excellent use of loop/recursion techniques
 
 -----------------
 
@@ -76,19 +99,26 @@ Assessed by: Mike
 
 **Evaluation Scores:**
 
-*Functional Expectations:* 4: Application fulfills all base expectations and two extensions, or a custom extension to be approved by an instructor.
+*Functional Expectations |*
+**4**: Application fulfills all base expectations and two extensions, or a custom extension to be approved by an instructor.
 
-*REPL Interface:* 4: Application's REPL goes above and beyond expectations to improve the interface
+*REPL Interface |*
+**4**: Application's REPL goes above and beyond expectations to improve the interface
 
-*Test-Driven Development:* 3: Application is well tested but does not balance isolation and integration tests
+*Test-Driven Development |*
+**3**: Application is well tested but does not balance isolation and integration tests
 
-*Breaking Logic into Components:* 3: Application effectively breaks logical components apart with clear intent and usage
+*Breaking Logic into Components |*
+**3**: Application effectively breaks logical components apart with clear intent and usage
 
-*Fundamental Ruby & Style:* 3: Application shows strong effort towards organization, content, and refactoring
+*Fundamental Ruby & Style |*
+**3**: Application shows strong effort towards organization, content, and refactoring
 
-*Enumerables and Collections:* 3: Application demonstrates comfortable use of several Enumerable techniques
+*Enumerables and Collections |*
+**3**: Application demonstrates comfortable use of several Enumerable techniques
 
-*HTML and Style:* 4: Usses CSS and is aesthetically pleasing, using of images, colors and metadata.
+*HTML and Style |*
+**4**: Uses CSS and is aesthetically pleasing, using of images, colors and metadata.
 
 
 ## C: Group Work & Projects
@@ -114,17 +144,26 @@ Assessed by: Mark
 
 **Evaluation Scores:**
 
-*Functional Expectations:* 4: Application fulfills all base expectations and one extension
+*Functional Expectations |*
+**4**: Application fulfills all base expectations and one extension
 
-*Test-Driven Development:* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+*Test-Driven Development |*
+**4**: Application is broken into components which are well tested in both isolation and integration using appropriate data
 
-*Encapsulation / Breaking Logic into Components:* 4: Application is expertly divided into logical components each with a clear, single responsibility
+*Encapsulation / Breaking Logic into Components |*
+**4**: Application is expertly divided into logical components each with a clear, single responsibility
 
-*Fundamental Ruby & Style:* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+*Fundamental Ruby & Style |*
+**4**: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 
-*Enumerable & Collections:* 4: Application consistently makes use of the best-choice Enumerable methods
+*Enumerable & Collections |*
+**4**: Application consistently makes use of the best-choice Enumerable methods
 
-(feedback to me)
+**Feedback**
+
+*-From Morgan Slimak:*
+
+"Ryan was a great partner.  I like Ryan"
 
 --------------
 

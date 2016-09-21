@@ -165,18 +165,37 @@ Assessed by: Mark
 
 ### Giving Feedback
 
-(feedback from me)
+
+*-For Morgan Slimak:*
+
+I appreciated working with Morgan on CompleteMe. Beyond his ability to program, Morgan brought admirable work ethic and personal flexibility to the project. At all times, Morgan was ready to jump in and work and was open to working together or separately on any part of the project. Working with Morgan was just an easy and enjoyable experience, and I hope to have the chance to be on a team with him again.
+
+
+*-For Jon Kimble:*
+
+Jon is a personal inspiration to me at Turing because of the way that he carries himself and interacts with others. I am particularly impressed by his ability to tackle things that I find daunting such as interacting with existing members of the tech community. By the end of this module, Jon will have already been to multiple events in the area and started tentatively looking at the job market. I have no doubt that he will excel in this area because of his natural ability to authentically engaging with any individual’s interests. I think everyone at Turing could learn something from his example.
+
+
+*-For Dan Olson:*
+
+I had the opportunity to work with Dan on Headcount, affectionately described on its Github template repo as "a whopper of a project." Throughout what was sometimes a trying experience, Dan was a very supportive partner. I appreciated his work ethic and flexibility. But more than anything else, I was impressed by Dan’s communication. We re-DTR’d several times—not for anything negative, but rather just to make sure that we remained on the same page. Without his commitment to communicating clearly and effectively, I’m sure our partnership would not have gone as smoothly.  
+
 
 ### Being a Community Member
 
 
+*-From Jon Kimble*
+
 Ryan has been a huge help to me during my time at Turing, he has always made himself available to answer any questions I or my teammates may have.  He has a calm and conversational way of explaining concepts that leaves me walking away with understanding what is going on rather than just with an answer. He also shows great dedication to all of his work at Turing and this serves as a continued inspiration.  It is very motivating to see his focus, the high standard of performance he holds himself to, and the quality of work he produces. Ryan is a great guy to be around and adds to all of our experience at Turing in numerous ways.
 
-*-Jon Kimble, 1608-BE Student*
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+During Module 1, I have attended all Turing functions, including guest speakers, Gear-ups, mixers, and various Pahlka Posse gatherings.
+
+I also try to empower myself to improve our community whenever I see something that I can fix or improve. This module, that ended up being small things like taking over cleaning duties when one member of the cohort had to leave to pick up his kids from school or grabbing a broom and dustpan to sweep up broken glass from a bottle that smashed down the back staircase over the weekend.
+
+Next module, I hope to continue my involvement and in particular start to raise it by participating with more groups like Kids Who Code.  
 
 ------------------
 

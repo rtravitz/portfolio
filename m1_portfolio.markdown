@@ -146,17 +146,30 @@ Assessed by: Mark
 (Intro)
 
 ### Gear Up
-#### (Session Name)
+#### The Gender Gap in Technology
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown)
 
-(takeaways from session)
+This session had some remarkable revelations for me about what keeps women out of tech. One of the primary causes is cultural influence. Women in our society are inundated with messages from a young age about what kinds of activities they should be pursuing. It's reflected in things from movies to the marketing of toys. The discussion after the documentary raised a question that I'm still thinking about: how do we tackle a problem this large? For me and my group, the answer was to try to live by your personal convictions and to stand up when you see something wrong. One person can't change society, but enough voices can, albeit slowly.
 
+
+#### There is an "I" in "Team"
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown)
+
+This session had me thinking more intentionally about my group interactions. During the first part of the discussion, I took a strong stance. A member of the group later pointed out to me that while I had only said things that everyone agreed with, a person with differing views could have been stifled. Before that conversation, I had not been as aware of potential team member boundaries as I could have been.
+
+
+#### Getting Better at Difficult Things
+
+* [GitHub URL](https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown)
+
+This was an absolutely incredible session to attend. Following the video and the discussion, I began to think about all of my routine actions based on the cognitive drain that they place on me. This thinking persists to this day, and I have used it to streamline things about my life from my technical workflow to decisions that I make when I get up in the morning. This session was also a valuable reminder to celebrate victories among the challenges.
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Personal Branding
 
-* [Workshop URL]()
+* [Workshop URL](https://turingschool.slack.com/files/liajames/F2BBNM1LN/personal-branding.key)
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
@@ -166,17 +179,17 @@ Assessed by: Mark
 ### Giving Feedback
 
 
-*-For Morgan Slimak:*
+*-To Morgan Slimak:*
 
 I appreciated working with Morgan on CompleteMe. Beyond his ability to program, Morgan brought admirable work ethic and personal flexibility to the project. At all times, Morgan was ready to jump in and work and was open to working together or separately on any part of the project. Working with Morgan was just an easy and enjoyable experience, and I hope to have the chance to be on a team with him again.
 
 
-*-For Jon Kimble:*
+*-To Jon Kimble:*
 
 Jon is a personal inspiration to me at Turing because of the way that he carries himself and interacts with others. I am particularly impressed by his ability to tackle things that I find daunting such as interacting with existing members of the tech community. By the end of this module, Jon will have already been to multiple events in the area and started tentatively looking at the job market. I have no doubt that he will excel in this area because of his natural ability to authentically engaging with any individual’s interests. I think everyone at Turing could learn something from his example.
 
 
-*-For Dan Olson:*
+*-To Dan Olson:*
 
 I had the opportunity to work with Dan on Headcount, affectionately described on its Github template repo as "a whopper of a project." Throughout what was sometimes a trying experience, Dan was a very supportive partner. I appreciated his work ethic and flexibility. But more than anything else, I was impressed by Dan’s communication. We re-DTR’d several times—not for anything negative, but rather just to make sure that we remained on the same page. Without his commitment to communicating clearly and effectively, I’m sure our partnership would not have gone as smoothly.  
 

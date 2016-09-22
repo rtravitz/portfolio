@@ -9,11 +9,11 @@ I also set personal goals to immerse myself in every part of the Turing experien
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: X
-* **B: Individual Work & Projects**: X
+* **A: End-of-Module Assessment**: 4
+* **B: Individual Work & Projects**: 4
 * **C: Group Work & Projects**: X
-* **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **D: Professional Skills**: 3
+* **E: Feedback & Community Participation**: 3
 
 -----------------------
 
@@ -163,26 +163,34 @@ Assessed by: Mark
 
 *-From Morgan Slimak:*
 
-"Ryan was a great partner.  I like Ryan"
+Ryan was a fantastic partner on the CompleteMe project, and very easy to work with. When we first met and interacted prior to the project I had my concerns, solely because I had been in the Echo group and Ryan was previously in Foxtrot. However, once we actually began on the project, Ryan proved to be an extremely valuable asset, driving much of the project and figuring out some incredible solutions, such as how we could get our program to work recursively in true trie fashion. In our partnership, Ryan actively came ready to accommodate my unorthodox personality. It was a great pleasure working with Ryan.
 
 --------------
 
 
-#### (Project Name)
+#### Headcount
 
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/rtravitz/headcount)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
+* [DTR](https://slack-files.com/files-pri-safe/T029P2S9M-F2EGEUVRQ/headcount_dtr_ryan-dan.pdf?c=1474510040-e58b3b58cb3803763cbda3e6cd0e6e1df8f56829)
 
-(description)
+For this project, we were required to take in and analyze a large amount of data about Colorado school districts. Our application was split into several parts, including parsers, repositories, and analysis tools.
 
 (evaluation comments)
 
 (evaluation scores)
 
-(feedback to me)
+**Feedback**
+
+*-From Dan Olson*
+
+I was very fortunate to be able to work with Ryan Travitz on Headcount. It was an absolute pleasure to work with him throughout this project. Ryan’s work ethic and teaching ability is second to none. He would constantly check in with me for understanding and was always willing to explain something that I wasn’t totally clear on. Also, he would regularly check in with me to see if I had input on a specific problem or error we were facing. The only negative that I ever experienced, and not really a negative, is that he did like to drive when we were on to something important. However, he never let me feel like I was left in the dust. Like I said before, he would always check in with me before moving on to the next iteration or method we were building. Ryan is extremely talented and is able to see the code much deeper than most people and has a strong fundamental understanding of how objects work together and interconnect. His insight and vision are astonishing and I see him going very far in this career. It’s been my absolute pleasure working with him and he has taught me so much. I’m not sure that I could have had a better partner for this massive project with such a cool head and great personality.
+
 
 ## D: Professional Skills
-(Intro)
+
+Professional skills sessions help build important skills 
+
 
 ### Gear Up
 #### The Gender Gap in Technology
@@ -208,7 +216,18 @@ This was an absolutely incredible session to attend. Following the video and the
 ### Professional Development Workshops
 #### Personal Branding
 
-* [Workshop URL](https://turingschool.slack.com/files/liajames/F2BBNM1LN/personal-branding.key)
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md)
+
+**Completed Deliverables**
+* [Github](https://github.com/rtravitz)
+* [Twitter](https://twitter.com/rtravitz)
+* [LinkedIn](https://www.linkedin.com/in/rtravitz)
+
+(takeaways from session)
+
+#### Personal Branding Part II
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p2.md)
 * [Link to Completed Deliverables]()
 
 (takeaways from session)
@@ -216,6 +235,10 @@ This was an absolutely incredible session to attend. Following the video and the
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
+
+*To Daniel Shin:*
+
+Daniel has been an integral part of our community this module, particularly because of how he organizes events. From the first week on, Daniel has regularly planned activities, including sports in the park each weekend, a hiking trip, a free concert, and other social get-togethers. He posts all of the things he plans publicly, so that anyone from our cohort, or from the entire school, can come along too. His efforts have allowed me to meet and bond with people whom I otherwise would have only known in passing. I am writing this feedback because I want to make sure that his valuable community-building is recognized.
 
 
 *-To Morgan Slimak:*
@@ -235,10 +258,23 @@ I had the opportunity to work with Dan on Headcount, affectionately described on
 
 ### Being a Community Member
 
+*-From Daniel Shin*
+
+Ryan has consistently been on top of his tasks in Module 1 and has always been a solid resource to reach out to for any questions. This includes everything from assignment details to Gear Up and Spike information. He has also been very involved with extracurricular Turing events and encourages others in his cohort to be involved as well. In all honesty, his encouragement to attend Turing extracurricular sessions has helped me develop a better perspective of this program as a whole, and I believe that without his push I would be maintaining a narrow view of Turing.
+
+
+*-From Morgan Slimak*
+
+Ryan was a fantastic partner on the CompleteMe project, and very easy to work with. When we first met and interacted prior to the project I had my concerns, solely because I had been in the Echo group and Ryan was previously in Foxtrot. However, once we actually began on the project, Ryan proved to be an extremely valuable asset, driving much of the project and figuring out some incredible solutions, such as how we could get our program to work recursively in true trie fashion. In our partnership, Ryan actively came ready to accommodate my unorthodox personality. It was a great pleasure working with Ryan.
+
 
 *-From Jon Kimble*
 
 Ryan has been a huge help to me during my time at Turing, he has always made himself available to answer any questions I or my teammates may have.  He has a calm and conversational way of explaining concepts that leaves me walking away with understanding what is going on rather than just with an answer. He also shows great dedication to all of his work at Turing and this serves as a continued inspiration.  It is very motivating to see his focus, the high standard of performance he holds himself to, and the quality of work he produces. Ryan is a great guy to be around and adds to all of our experience at Turing in numerous ways.
+
+*-From Dan Olson*
+
+I was very fortunate to be able to work with Ryan Travitz on Headcount. It was an absolute pleasure to work with him throughout this project. Ryan’s work ethic and teaching ability is second to none. He would constantly check in with me for understanding and was always willing to explain something that I wasn’t totally clear on. Also, he would regularly check in with me to see if I had input on a specific problem or error we were facing. The only negative that I ever experienced, and not really a negative, is that he did like to drive when we were on to something important. However, he never let me feel like I was left in the dust. Like I said before, he would always check in with me before moving on to the next iteration or method we were building. Ryan is extremely talented and is able to see the code much deeper than most people and has a strong fundamental understanding of how objects work together and interconnect. His insight and vision are astonishing and I see him going very far in this career. It’s been my absolute pleasure working with him and he has taught me so much. I’m not sure that I could have had a better partner for this massive project with such a cool head and great personality.
 
 
 ### Playing a Part

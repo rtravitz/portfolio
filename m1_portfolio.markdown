@@ -11,7 +11,7 @@ I also set personal goals to immerse myself in every part of the Turing experien
 
 * **A: End-of-Module Assessment**: 4
 * **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: X
+* **C: Group Work & Projects**: 3
 * **D: Professional Skills**: 3
 * **E: Feedback & Community Participation**: 3
 
@@ -176,9 +176,37 @@ Ryan was a fantastic partner on the CompleteMe project, and very easy to work wi
 
 For this project, we were required to take in and analyze a large amount of data about Colorado school districts. Our application was split into several parts, including parsers, repositories, and analysis tools.
 
-(evaluation comments)
+**Evaluation Comments**
 
-(evaluation scores)
+Assessed by: Beth
+
+
+* Got through 4 and added 6
+* Testing overall strong, would like to see more unit testing with stubbing or mocking
+* SRP generally upheld; only shortcoming is methods juggling a lot of responsibility
+* Style overall strong, some weird things with returning true/false when simple condition would suffice
+* Some great use of enumerables (group_by) but opportunities to replace each in certain scenarios with better choices
+* O sanitation errors
+
+**Evaluation Scores**
+
+*Functional Expectations |*
+**3**: Application fulfills expectations of Iterations 0 - 4 *as well as* one of Iterations 5 or 6
+
+*Test-Driven Development |*
+**3**: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+*Encapsulation / Breaking Logic into Components |*
+**3**: Application effectively breaks logical components apart but breaks the principle of SRP
+
+*Fundamental Ruby & Style |*
+**3**:  Application shows strong effort towards organization, content, and refactoring
+
+*Enumerable & Collections |*
+**3**: Application demonstrates comfortable use of appropriate Enumerable methods
+
+*Code Sanitation |*
+**4**: Zero complaints
 
 **Feedback**
 
@@ -189,7 +217,7 @@ I was very fortunate to be able to work with Ryan Travitz on Headcount. It was a
 
 ## D: Professional Skills
 
-Professional skills sessions help build important skills 
+Professional skills sessions help us become complete developers and prepare us to work as part of teams and organizations.
 
 
 ### Gear Up
@@ -214,7 +242,7 @@ This session had me thinking more intentionally about my group interactions. Dur
 This was an absolutely incredible session to attend. Following the video and the discussion, I began to think about all of my routine actions based on the cognitive drain that they place on me. This thinking persists to this day, and I have used it to streamline things about my life from my technical workflow to decisions that I make when I get up in the morning. This session was also a valuable reminder to celebrate victories among the challenges.
 
 ### Professional Development Workshops
-#### Personal Branding
+#### Personal Branding Part I
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md)
 
@@ -223,14 +251,33 @@ This was an absolutely incredible session to attend. Following the video and the
 * [Twitter](https://twitter.com/rtravitz)
 * [LinkedIn](https://www.linkedin.com/in/rtravitz)
 
-(takeaways from session)
+This session focused on passive branding and job searching tools, including Github, LinkedIn, Twitter, and a resume. Each of these profiles needs to offer a profile picture and tell a consistent story about me as a software developer. Following this session, I completed my Github profile, updated by Twitter to have a cleaner look, and changed my information on LinkedIn to represent myself as a Software Developer attending Turing. This is an ongoing project. I am also still working on a resume, which is due to Lia at the beginning of the next module.
+
+-----------------
 
 #### Personal Branding Part II
 
 * [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p2.md)
-* [Link to Completed Deliverables]()
 
-(takeaways from session)
+This session focused on building a personal website. Important considerations for making the personal website include making sure to market to non-technical recruiters, having a personal statement that tells your story as a career-changer, and having readily accessible project examples. The deliverables for this are due in the next module.
+
+---------------------
+
+#### Learning to Pair
+
+* [Workshop URL](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md)
+* [DTR](https://slack-files.com/files-pri-safe/T029P2S9M-F2EGEUVRQ/headcount_dtr_ryan-dan.pdf?c=1474510040-e58b3b58cb3803763cbda3e6cd0e6e1df8f56829)
+
+This session taught us how to hold a DTR conversation. Setting expectations up front is important to any relationship. At times it is also necessary to have a reset conversation if expectations are broken. Above is a DTR form from my Headcount project with Dan Olson.
+
+---------------------
+
+#### StrengthsFinder: The Challenge of Affirming My Strengths
+
+* [Affirming Strengths Worksheet](https://docs.google.com/document/d/1MNEaPgGkYIMfMtfHnQ2KxT-zX3tnBCx8jYFCrvwhbkA/edit?usp=sharing)
+
+In this session, we worked with Allison and a small group to affirm our natural talents based on the results of the StrengthsFinder test. I am providing the worksheet that we filled out from this session in which we wrote about a challenge and then affirmed our strength.
+
 
 ## E: Feedback and Community Participation
 
@@ -283,7 +330,7 @@ During Module 1, I have attended all Turing functions, including guest speakers,
 
 I also try to empower myself to improve our community whenever I see something that I can fix or improve. This module, that ended up being small things like taking over cleaning duties when one member of the cohort had to leave to pick up his kids from school or grabbing a broom and dustpan to sweep up broken glass from a bottle that smashed down the back staircase over the weekend.
 
-Next module, I hope to continue my involvement and in particular start to raise it by participating with more groups like Kids Who Code.  
+Next module, I hope to continue my involvement and in particular start to raise it by participating with more groups like Kids Who Code. I have also started working with Calaway to transition responsibility for organizing Module 2's pairings with Module 1 students.
 
 ------------------
 

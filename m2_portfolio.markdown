@@ -20,6 +20,11 @@ I also set a goal to participate in a group with an effective distributed workfl
 
 Assessed by: Casey
 
+**Evaluation Notes:**
+My main area for continued improvement after this eval is to keep looking for ways to move logic down the stack. Even if a chained method call seems simple, it can probably be combined into a single, tested model method.
+
+**Scores**
+
 *Conceptual Understanding |*
  **4**: Developer is able to describe concepts with a high degree*o**f specificity and accuracy without assistance
 
